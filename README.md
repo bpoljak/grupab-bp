@@ -22,3 +22,6 @@ https://github.com/bpoljak/grupab-bp.git
     2. Upit: SELECT biljka.id, biljka.naziv, biljka.vrsta FROM biljka INNER JOIN vrsta WHERE biljka.id=vrsta.id
 
 6. korak:
+    git add .
+    git commit -m "Zavrsen ispit"
+    git push
